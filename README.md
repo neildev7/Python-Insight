@@ -59,6 +59,7 @@ O sistema realiza automaticamente:
 - Linkedin: [Neil Lopes](https://www.linkedin.com/in/neil-lopes-4a33a5383)
 - E-mail: **neillopes237@gmail.com**
 - Instagram: **neilzsz**
+
 ---
 
 > Este projeto foi desenvolvido como parte do meu aprendizado em Python e análise de dados, aplicando limpeza, visualização e interpretação de dados, com foco em gerar insights estratégicos para empresas, contribuindo para a construção do meu portfólio profissional.
