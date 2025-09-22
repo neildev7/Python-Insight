@@ -3,7 +3,7 @@
 Este projeto implementa uma **análise de dados em Python** para identificar padrões de cancelamento de clientes em uma base de dados de assinaturas.  
 A solução utiliza bibliotecas de manipulação de dados e visualização gráfica, permitindo insights estratégicos para **reduzir churn** e melhorar retenção.
 
-O projeto foi desenvolvido como parte do estudo de **Python para análise de dados**, aplicando conceitos de **limpeza de dados, análise exploratória e visualização interativa**.
+Este projeto foi desenvolvido durante o curso **Jornada Python** da [Hashtag Treinamentos](https://www.hashtagtreinamentos.com/), como forma de aplicar conceitos de **limpeza de dados, análise exploratória e visualização interativa**.
 
 ---
 
